@@ -1,6 +1,6 @@
 # Computer Vision using CIFAR10
+This is a Convolutional Neural Network trained on the CIFAR-10 Dataset.
 
-#### Download Package Manager
 
 ## Instructions
 -----
@@ -99,6 +99,3 @@ Note: If you are unable to delete it may be because you cloned using the ADMIN P
 
 ## Instructions Complete
 ----
-
-## CIFAR-10 Neural Network
-This is a Convolutional Neural Network trained on the CIFAR-10 Dataset
